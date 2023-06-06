@@ -440,7 +440,7 @@ body {
     color: rgb(123, 123, 123);
 }
 
-@media (min-width:1041px){
+@media (min-width:1025px){
     .menu__products:hover .products-content{
         opacity: 1;
         transform: translateY(26rem);
@@ -455,7 +455,7 @@ body {
 }
 
 /* mobile or tablet size */
-@media (max-width:1040px){
+@media (max-width:1024px){
     .navigation{
         position: relative;
     }
